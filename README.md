@@ -1,0 +1,1 @@
+Example combining NZ electorate enrolment rates and census SA2 data via the geographical overall of SA2 and Electorate digital map boundaries. Of value to many may be the SA2/Electorate concordances which have the proportion of SA2 in each Electorate and having a downloadable record of enrolments as of Aug 31st for comparing to the end of September.
